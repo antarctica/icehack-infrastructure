@@ -1,0 +1,2 @@
+# This directory contains terraform modules and remote state - which should be checked into version control
+.terraform
