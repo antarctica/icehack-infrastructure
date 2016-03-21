@@ -49,7 +49,7 @@ State information for this project is stored within this project.
 
 Note: Contact the Web & Applications Team for any missing permissions.
 
-[1] https://stash.ceh.ac.uk/projects/WSF/repos/bas-aws/browse
+[1] https://stash.ceh.ac.uk/projects/ICEHACK16/repos/icehack-infrastructure/browse
 
 [2] Typically an IAM user with the administrator role is used
  
