@@ -58,7 +58,7 @@ Note: Contact the Web & Applications Team for any missing permissions.
 Clone repository:
 
 ```
-$ git clone https://github.com/antarctica/icehack-infrastructure
+$ git clone https://github.com/antarctica/icehack-infrastructure.git
 ```
 
 ## Licence
