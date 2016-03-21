@@ -60,3 +60,12 @@ Clone repository:
 ```
 $ git clone https://github.com/antarctica/icehack-infrastructure
 ```
+
+## Licence
+
+Copyright 2016 NERC BAS.
+
+Unless stated otherwise, all documentation is licensed under the Open Government License - version 3.
+All code is licensed under the MIT license.
+
+Copies of these licenses are included within this project.
